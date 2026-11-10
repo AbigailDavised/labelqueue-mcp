@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "labelqueue": {
+      "type": "streamable-http",
+      "url": "https://labelqueue.com/api/mcp"
+    }
+  }
+}

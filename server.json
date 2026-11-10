@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.labelqueue/mcp",
+  "title": "LabelQueue — Avery Label Dimensions, Margin & Bleed Layout Engine",
+  "description": "Look up exact Avery & standard sheet label dimensions, pitch, margins & print layout specs.",
+  "version": "1.0.2",
+  "websiteUrl": "https://labelqueue.com",
+  "repository": {
+    "url": "https://github.com/AbigailDavised/labelqueue-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://labelqueue.com/icon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://labelqueue.com/api/mcp"
+    }
+  ]
+}

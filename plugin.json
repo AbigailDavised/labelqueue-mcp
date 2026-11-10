@@ -1,0 +1,16 @@
+{
+  "name": "labelqueue",
+  "version": "1.0.2",
+  "description": "Look up exact Avery & standard sheet label dimensions, pitch, margins & print layout specs.",
+  "homepage": "https://labelqueue.com",
+  "repository": "https://github.com/AbigailDavised/labelqueue-mcp",
+  "license": "MIT",
+  "author": {
+    "name": "LabelQueue",
+    "url": "https://labelqueue.com"
+  },
+  "mcpServers": "./mcp.json",
+  "skills": [
+    "./skills/labelqueue"
+  ]
+}
