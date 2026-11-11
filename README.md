@@ -1,4 +1,6 @@
-# LabelQueue — Avery Label Dimensions, Margin & Bleed Layout Engine
+
+
+[![mcptry](https://mcptry.com/badge/com.labelqueue/mcp)](https://mcptry.com/servers/com.labelqueue/mcp)
 
 [![Official Website](https://img.shields.io/badge/Website-labelqueue.com-blue)](https://labelqueue.com)
 [![MCP Registry](https://img.shields.io/badge/MCP_Registry-com.labelqueue%2Fmcp-green)](https://www.mcptry.com/servers/com.labelqueue/mcp)
