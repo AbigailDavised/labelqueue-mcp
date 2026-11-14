@@ -1,6 +1,7 @@
 
 
 [![mcptry](https://mcptry.com/badge/com.labelqueue/mcp)](https://mcptry.com/servers/com.labelqueue/mcp)
+[![MCPRush Listing](https://mcprush.com/badge/labelqueue-avery-label-dimensions-margin-blee-mcp/card.svg)](https://mcprush.com/to/labelqueue-avery-label-dimensions-margin-blee-mcp?ref=badge)
 
 [![Official Website](https://img.shields.io/badge/Website-labelqueue.com-blue)](https://labelqueue.com)
 [![MCP Registry](https://img.shields.io/badge/MCP_Registry-com.labelqueue%2Fmcp-green)](https://www.mcptry.com/servers/com.labelqueue/mcp)
